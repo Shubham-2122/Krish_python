@@ -24,6 +24,7 @@ print(type(num))
 
 print("****************")
 
+# string value
 name = "krish pachanl"
 print("Name :",name)
 print(type(name))
