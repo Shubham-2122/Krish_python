@@ -4,6 +4,7 @@ if codition
     statement
 
 true value
+
 '''
 
 num = int(input("Enter your num : "))
