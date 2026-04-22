@@ -47,6 +47,9 @@ print(s.index("c"))
 print("tops".isalpha())
 print("123".isnumeric())
 
+#replce
+print("hello".replace("l","w"))
+
 
 
 
