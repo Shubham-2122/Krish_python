@@ -74,3 +74,16 @@ for i in l:
     
 #check true or false
 print(102 in l)
+
+
+listd = [2,4,5,3,1,6,7]
+print(listd)
+listd.sort()
+print(listd)
+
+print(max(listd))
+print(min(listd))
+print(sum(listd))
+
+listd[2] = "shubham"
+print(listd)
