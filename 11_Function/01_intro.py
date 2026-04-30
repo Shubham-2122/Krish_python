@@ -22,3 +22,42 @@ def printLine():
 printLine()
 print("Hello krisha panchal")
 printLine()
+
+def add():
+    a = 30
+    b = 10
+    print("Sum : ",a+b)
+
+add()
+printLine()
+add()
+
+
+# with argument & without return
+
+def sum(x,y):
+    print("SumD : ",x+y)
+
+printLine()
+sum(35,20)
+printLine()
+sum(67,35)
+
+# with argument & with return
+
+def sub(a,b):
+    return a-b
+
+printLine()
+result = sub(40,15)
+print("sub :",result)
+printLine()
+print("sub :",sub(50,12))
+printLine()
+
+
+
+
+
+
+
